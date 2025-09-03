@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Onjanirina
+Étudiant en informatique | Dev web & cybersécurité
 
-<!--
-**Evil-Ghoster/Evil-Ghoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Stack & outils
+React • Node.js • Java • Spring Boot • MySQL
 
-Here are some ideas to get you started:
+## 🗂️ Projets phares
+- **Nom du projet** — courte description + lien
+- **Nom du projet** — courte description + lien
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter
+- Portfolio: lien
+- LinkedIn: lien

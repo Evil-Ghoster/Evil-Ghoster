@@ -1,4 +1,4 @@
-# 🚀 Salut ! Moi c'est Onjanirina
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" height="30" /> Salut ! Moi c'est Onjanirina
 
 <div align="center">
   
@@ -8,112 +8,126 @@
 
 ---
 
-## 💫 À propos
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> À propos
 
 > **Développeur passionné** spécialisé en développement web et cybersécurité  
 > **Étudiant en informatique** toujours en quête de nouveaux défis technologiques
 
 ```javascript
 const onjanirina = {
-    location: "Madagascar 🇲🇬",
+    location: "Madagascar",
+    flag: "🇲🇬",
     education: "Informatique",
     interests: ["Web Development", "Cybersecurity", "Open Source"],
     currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    funFact: "I debug with console.log and I'm proud of it!"
 };
 ```
 
 ---
 
-## ⚡ Stack Technologique
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Stack Technologique
 
 <div align="center">
 
-### 🎯 Frontend
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Frontend" width="25" height="25" /> Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Backend
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Backend" width="25" height="25" /> Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Bases de données
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="Database" width="25" height="25" /> Bases de données
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Outils & DevOps
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Tools" width="25" height="25" /> Outils & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 Statistiques GitHub
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" height="30" /> Statistiques GitHub
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evil-Ghoster&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Ghoster&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Evil-Ghoster&theme=tokyonight)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Ghoster&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="30" height="30" /> Objectifs 2025
 
-## 🎯 Objectifs 2025
+<table align="center">
+<tr>
+<td width="50%">
 
-- [ ] 🔐 Approfondir mes connaissances en cybersécurité
-- [ ] 🌐 Maîtriser les microservices avec Spring Boot
-- [ ] 📱 Développer une application mobile avec React Native  
-- [ ] 🤖 Explorer l'intelligence artificielle et le machine learning
-- [ ] 🌟 Contribuer davantage à l'open source
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Security" width="20" height="20" /> Approfondir mes connaissances en cybersécurité
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web" width="20" height="20" /> Maîtriser les microservices avec Spring Boot
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="20" height="20" /> Développer une application mobile avec React Native
+
+</td>
+<td width="50%">
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="AI" width="20" height="20" /> Explorer l'intelligence artificielle et le ML
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20" height="20" /> Contribuer davantage à l'open source
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="20" height="20" /> Apprendre de nouveaux frameworks
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Activité & Contributions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Activity" width="30" height="30" /> Activité & Contributions
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Evil-Ghoster&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Evil-Ghoster&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Evil-Ghoster&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🌐 Connectons-nous !
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Connect" width="30" height="30" /> Connectons-nous !
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](votre-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](votre-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](votre-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onjanirinarakotondranaivo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Evil-Ghoster)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](votre-twitter)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💖 Merci de visiter mon profil !
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Evil-Ghoster.Evil-Ghoster)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="25" height="25" /> Merci de visiter mon profil !
 
-⭐ N'hésitez pas à star mes projets si ils vous plaisent !
+![Profile Views](https://komarev.com/ghpvc/?username=Evil-Ghoster&style=for-the-badge&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/Evil-Ghoster?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/Evil-Ghoster?style=for-the-badge&color=yellow)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20" height="20" /> N'hésitez pas à star mes projets si ils vous plaisent ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20" height="20" />
 
 </div>
 
@@ -121,4 +135,8 @@ const onjanirina = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>

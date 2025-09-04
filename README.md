@@ -73,19 +73,6 @@ const onjanirina = {
 
 ---
 
-## 🏆 Projets Phares
-
-<div align="center">
-
-| 🌟 Projet | 📝 Description | 🔗 Liens | 🛠️ Tech Stack |
-|-----------|---------------|----------|---------------|
-| **📱 Nom du Projet 1** | Application web moderne avec interface responsive | [Demo](lien) • [Code](lien) | React, Node.js, MySQL |
-| **🔒 Nom du Projet 2** | Outil de cybersécurité pour l'analyse de vulnérabilités | [Demo](lien) • [Code](lien) | Java, Spring Boot |
-| **🚀 Nom du Projet 3** | API REST performante avec authentification JWT | [Demo](lien) • [Code](lien) | Node.js, Express, MongoDB |
-
-</div>
-
----
 
 ## 🎯 Objectifs 2025
 
@@ -102,16 +89,6 @@ const onjanirina = {
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Evil-Ghoster&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 🏅 Trophées GitHub
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Evil-Ghoster&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Evil-Ghoster)
 
 </div>
 

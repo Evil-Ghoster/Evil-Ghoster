@@ -67,7 +67,7 @@ const onjanirina = {
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Security" width="20" height="20" /> Approfondir mes connaissances en cybersécurité
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web" width="20" height="20" /> Maîtriser les microservices avec nest et react 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="20" height="20" /> Développer une application mobile avec Flutter
+
 
 </td>
 <td width="50%">
@@ -80,17 +80,6 @@ const onjanirina = {
 </tr>
 </table>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Activity" width="30" height="30" /> Activité & Contributions
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Evil-Ghoster&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Evil-Ghoster&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 

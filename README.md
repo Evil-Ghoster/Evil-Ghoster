@@ -59,7 +59,7 @@ const onjanirina = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="30" height="30" /> Objectifs 2025
+##  Objectifs 2025
 
 <table align="center">
 <tr>

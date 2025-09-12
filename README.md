@@ -56,16 +56,6 @@ const onjanirina = {
 
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" height="30" /> Statistiques GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evil-Ghoster&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Ghoster&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 ---
 
@@ -76,8 +66,8 @@ const onjanirina = {
 <td width="50%">
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Security" width="20" height="20" /> Approfondir mes connaissances en cybersécurité
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web" width="20" height="20" /> Maîtriser les microservices avec Spring Boot
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="20" height="20" /> Développer une application mobile avec React Native
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web" width="20" height="20" /> Maîtriser les microservices avec nest et react 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="20" height="20" /> Développer une application mobile avec Flutter
 
 </td>
 <td width="50%">

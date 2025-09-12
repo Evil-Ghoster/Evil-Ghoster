@@ -65,16 +65,16 @@ const onjanirina = {
 <tr>
 <td width="50%">
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Security" width="20" height="20" /> Approfondir mes connaissances en cybersécurité
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Web" width="20" height="20" /> Maîtriser les microservices avec nest et react 
+- Approfondir mes connaissances en cybersécurité
+- Maîtriser les microservices avec nest et react 
 
 
 </td>
 <td width="50%">
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="AI" width="20" height="20" /> Explorer l'intelligence artificielle et le ML
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20" height="20" /> Contribuer davantage à l'open source
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="20" height="20" /> Apprendre de nouveaux frameworks
+- Explorer l'intelligence artificielle et le ML
+-  Contribuer davantage à l'open source
+-  Apprendre de nouveaux frameworks
 
 </td>
 </tr>
@@ -105,7 +105,7 @@ const onjanirina = {
 ![Followers](https://img.shields.io/github/followers/Evil-Ghoster?style=for-the-badge&color=blue)
 ![Stars](https://img.shields.io/github/stars/Evil-Ghoster?style=for-the-badge&color=yellow)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20" height="20" /> N'hésitez pas à star mes projets si ils vous plaisent ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20" height="20" />
+N'hésitez pas à star mes projets si ils vous plaisent ! 
 
 </div>
 

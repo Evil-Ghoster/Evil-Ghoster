@@ -1,85 +1,129 @@
+<!-- Bannière -->
 <div align="center">
 
-# Ghoster
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Ghoster&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Product%20Owner%20%C2%B7%20DevOps%20Engineer%20%C2%B7%20Fullstack%20%26%20AI%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="Ghoster" width="100%" />
 
-### Product Owner · DevOps Engineer · Fullstack & AI Developer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=Product+Ownership+%26+Agile+Delivery;CI%2FCD+%7C+Docker+%7C+Kubernetes;Microservices+Architecture;LLMs+%26+AI+Agents+with+Python" alt="Typing SVG" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Product+Ownership+%26+Agile+Delivery;CI%2FCD+%7C+Docker+%7C+Kubernetes;Microservices+Architecture;LLMs+%26+AI+Agents+with+Python)](https://git.io/typing-svg)
+<br/>
 
-Fianarantsoa, Madagascar · Master's student at École Nationale d'Informatique (ENI), Fianarantsoa
+Fianarantsoa, Madagascar &nbsp;|&nbsp; Master's student at École Nationale d'Informatique (ENI)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:onjanirinarakotondranaivo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://onjanirina.me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](votre-portfolio.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+261384031028)
+<br/>
+
+<a href="mailto:onjanirinarakotondranaivo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://onjanirina.me"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://onjanirina.me"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" alt="Portfolio" /></a>
+<a href="https://wa.me/261384031028"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
 
----
+<br/>
 
 ## About
 
-I bridge product vision and engineering execution. As **Product Owner on two projects**, I turn business needs into clear requirements and a prioritized backlog. As a **DevOps engineer**, I build the automated pipelines and container platforms that ship the result reliably. As a **developer**, I design microservices and AI-powered services, with Python as my language of choice.
+I bridge product vision and engineering execution.
 
----
+As **Product Owner on two projects**, I turn business needs into clear requirements and a prioritized backlog. As a **DevOps engineer**, I build the automated pipelines and container platforms that ship the result reliably. As a **developer**, I design microservices and AI-powered services, with **Python** as my language of choice.
+
+<br/>
 
 ## Areas of Expertise
 
-### Product Ownership
-- Requirements gathering, specifications, and stakeholder alignment
-- Backlog management, user stories, acceptance criteria, and prioritization
-- Agile / Scrum ceremonies and delivery tracking
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### DevOps & CI/CD
-- Pipeline design and automation with **Jenkins** and **GitHub Actions**
-- Containerization with **Docker**; orchestration with **Kubernetes**
-- DevSecOps practices: automated testing, security scanning, and controlled deployments
+**Product Ownership**
+<br/>
+<sub>Requirements, specifications, stakeholder alignment</sub>
+<br/>
+<sub>Backlog, user stories, acceptance criteria, prioritization</sub>
+<br/>
+<sub>Agile / Scrum ceremonies and delivery tracking</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" alt="Product tools" />
 
-### Architecture & Backend
-- **Microservices** architecture, module separation, and REST API design
-- Backend services with **Python (FastAPI)**, **NestJS**, and **Spring Boot**
+  </td>
+    <td width="50%" valign="top">
 
-### AI & LLM Engineering
-- Development and deployment of **LLM-based** models and **AI agents**
-- MLOps workflow: training, packaging, API exposure (FastAPI / Swagger), containerized deployment
+**DevOps & CI/CD**
+<br/>
+<sub>Pipelines with Jenkins and GitHub Actions</sub>
+<br/>
+<sub>Docker containerization, Kubernetes orchestration</sub>
+<br/>
+<sub>DevSecOps: automated tests, security scans, controlled deployments</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,kubernetes,linux&theme=dark" alt="DevOps tools" />
 
----
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**Architecture & Backend**
+<br/>
+<sub>Microservices, module separation, REST API design</sub>
+<br/>
+<sub>Backend services with FastAPI, NestJS, Spring Boot</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,spring,nodejs,express&theme=dark" alt="Backend tools" />
+
+  </td>
+    <td width="50%" valign="top">
+
+**AI & LLM Engineering**
+<br/>
+<sub>LLM-based models and AI agents</sub>
+<br/>
+<sub>MLOps: training, packaging, API exposure (FastAPI / Swagger), containerized deployment</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker&theme=dark" alt="AI tools" />
+
+  </td>
+  </tr>
+</table>
+
+<br/>
 
 ## Technical Stack
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Python (primary), TypeScript, JavaScript, Java |
-| **AI / ML** | LLMs, AI agents, PyTorch, Hugging Face, LangChain |
-| **Backend** | FastAPI, NestJS, Node.js, Spring Boot, Express.js |
-| **Frontend** | Vue.js, React, HTML5, CSS3 |
-| **DevOps** | Jenkins, GitHub Actions, GitLab CI, Docker, Kubernetes, Linux |
-| **Databases** | PostgreSQL, MySQL, SQLite |
-| **Tools** | Git, GitHub, GitLab, VS Code |
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java&theme=dark" alt="Languages" />
 
-<div align="center">
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=vue,react,vite,html,css&theme=dark" alt="Frontend" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,express,spring&theme=dark" alt="Backend" />
 
-</div>
+**DevOps & CI/CD**
+<br/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,docker,kubernetes,linux&theme=dark" alt="DevOps" />
 
----
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
+
+**AI / ML & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,vscode&theme=dark" alt="AI and tools" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+
+<br/>
 
 ## Delivery Workflow
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'JetBrains Mono, Fira Code, monospace','fontSize':'14px','primaryColor':'#0D1117','primaryTextColor':'#E6EDF3','primaryBorderColor':'#58A6FF','lineColor':'#58A6FF'}}}%%
 flowchart LR
     A[Source Code] --> B[CI: Jenkins / GitHub Actions]
     B --> C[Tests & Security Scans]
@@ -89,21 +133,31 @@ flowchart LR
     F --> G[AI / LLM Services]
 ```
 
----
+<br/>
 
 ## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evil-Ghoster&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Ghoster&layout=compact&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Evil-Ghoster&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Evil-Ghoster&show_icons=true&hide_border=true&title_color=0969DA&icon_color=0969DA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Evil-Ghoster&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Ghoster&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Ghoster&layout=compact&hide_border=true&title_color=0969DA" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Ghoster&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</picture>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-*From product vision to production: define, build, automate, deliver.*
+<sub><i>From product vision to production: define, build, automate, deliver.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:58A6FF,50:1F6FEB,100:0D1117&section=footer" alt="" width="100%" />
 
 </div>

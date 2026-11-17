@@ -1,175 +1,109 @@
-# 👋 Salut ! Moi c'est Ghoster
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Product+Owner+%7C+Fullstack+Developer;Ingénieur+DevOps+%26+CI%2FCD;Architecte+Microservices;IA+%26+LLM+%7C+Agents+intelligents;Du+code+au+déploiement+🚀)](https://git.io/typing-svg)
+# Ghoster
+
+### Product Owner · DevOps Engineer · Fullstack & AI Developer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Product+Ownership+%26+Agile+Delivery;CI%2FCD+%7C+Docker+%7C+Kubernetes;Microservices+Architecture;LLMs+%26+AI+Agents+with+Python)](https://git.io/typing-svg)
+
+Fianarantsoa, Madagascar · Master's student at École Nationale d'Informatique (ENI), Fianarantsoa
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:onjanirinarakotondranaivo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://onjanirina.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](votre-portfolio.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+261384031028)
 
 </div>
 
 ---
 
-## 🧑‍💻 À propos
+## About
 
-> **Product Owner, Développeur Fullstack & Ingénieur DevOps** 
-> Je conçois, j'automatise et je livre des produits fiables — de la vision produit jusqu'à la production.
-> Étudiant en Master d'informatique à l'**École Nationale d'Informatique (ENI) de Fianarantsoa** 🇲🇬
-
-```python
-class Ghoster:
-    location = "Madagascar 🇲🇬"
-    education = "Master Informatique — ENI Fianarantsoa"
-    roles = ["Product Owner", "Fullstack Developer", "DevOps Engineer", "AI Engineer"]
-    favorite_language = "Python 🐍"
-    architecture = ["Microservices", "API REST", "Event-driven"]
-    current_focus = [
-        "Piloter 2 projets en tant que Product Owner",
-        "Industrialiser des pipelines CI/CD DevSecOps",
-        "Concevoir des agents IA et des applications LLM",
-    ]
-    motto = "Build, automate, ship."
-```
+I bridge product vision and engineering execution. As **Product Owner on two projects**, I turn business needs into clear requirements and a prioritized backlog. As a **DevOps engineer**, I build the automated pipelines and container platforms that ship the result reliably. As a **developer**, I design microservices and AI-powered services, with Python as my language of choice.
 
 ---
 
-## 🎯 Ce que je fais
+## Areas of Expertise
 
-### 📋 Product Owner
-Je porte la vision produit de **deux projets** : recueil et priorisation des besoins, rédaction de cahiers des charges, gestion du backlog, user stories, critères d'acceptation, animation des cérémonies agiles (Scrum) et coordination entre équipe technique et parties prenantes.
+### Product Ownership
+- Requirements gathering, specifications, and stakeholder alignment
+- Backlog management, user stories, acceptance criteria, and prioritization
+- Agile / Scrum ceremonies and delivery tracking
 
-### ⚙️ DevOps & CI/CD
-Conception et maintenance de pipelines **CI/CD** complets avec **Jenkins** et **GitHub Actions**, conteneurisation avec **Docker**, orchestration avec **Kubernetes**, intégration de la sécurité dans la chaîne (**DevSecOps**).
+### DevOps & CI/CD
+- Pipeline design and automation with **Jenkins** and **GitHub Actions**
+- Containerization with **Docker**; orchestration with **Kubernetes**
+- DevSecOps practices: automated testing, security scanning, and controlled deployments
 
-### 🧩 Architecture & Services
-Développement de services backend et conception d'**architectures microservices** (découplage des modules, API REST, communication inter-services, déploiement indépendant).
+### Architecture & Backend
+- **Microservices** architecture, module separation, and REST API design
+- Backend services with **Python (FastAPI)**, **NestJS**, and **Spring Boot**
 
-### 🤖 IA, Agents & LLM
-Développement de **modèles LLM**, conception d'**agents IA**, pipeline **MLOps** (entraînement, packaging, API **FastAPI** / Swagger, conteneurisation et déploiement).
-
----
-
-## 🛠️ Stack technologique
-
-<div align="center">
-
-### 🐍 Langage préféré
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🤖 IA & MLOps
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### ⚙️ DevOps & CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🧱 Backend & Microservices
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### 🖥️ Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Bases de données
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔧 Outils
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
+### AI & LLM Engineering
+- Development and deployment of **LLM-based** models and **AI agents**
+- MLOps workflow: training, packaging, API exposure (FastAPI / Swagger), containerized deployment
 
 ---
 
-## 🧭 Compétences clés
+## Technical Stack
 
-| Domaine | Compétences |
+| Category | Technologies |
 |---|---|
-| **Product Management** | Backlog, user stories, roadmap, priorisation, cahier des charges, Scrum, recueil des besoins |
-| **DevOps / CI-CD** | Jenkins, GitHub Actions, pipelines DevSecOps, Docker, Kubernetes, automatisation du déploiement |
-| **Architecture** | Microservices, API REST, séparation des modules, conception de services |
-| **IA / LLM** | Agents IA, développement de modèles LLM, MLOps, API FastAPI, déploiement de modèles |
-| **Développement** | Python, TypeScript, NestJS, Vue.js, React, Java / Spring Boot |
+| **Languages** | Python (primary), TypeScript, JavaScript, Java |
+| **AI / ML** | LLMs, AI agents, PyTorch, Hugging Face, LangChain |
+| **Backend** | FastAPI, NestJS, Node.js, Spring Boot, Express.js |
+| **Frontend** | Vue.js, React, HTML5, CSS3 |
+| **DevOps** | Jenkins, GitHub Actions, GitLab CI, Docker, Kubernetes, Linux |
+| **Databases** | PostgreSQL, MySQL, SQLite |
+| **Tools** | Git, GitHub, GitLab, VS Code |
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
-## 🌐 Architecture type que je mets en place
+## Delivery Workflow
 
 ```mermaid
 flowchart LR
-    A[💻 Code / Git] --> B[⚙️ CI : Jenkins / GitHub Actions]
-    B --> C[🔍 Tests & Sécurité]
-    C --> D[🐳 Build image Docker]
-    D --> E[☸️ Déploiement Kubernetes]
-    E --> F[🧩 Microservices]
-    F --> G[🤖 Services IA / LLM]
+    A[Source Code] --> B[CI: Jenkins / GitHub Actions]
+    B --> C[Tests & Security Scans]
+    C --> D[Docker Image Build]
+    D --> E[Kubernetes Deployment]
+    E --> F[Microservices]
+    F --> G[AI / LLM Services]
 ```
 
 ---
 
-<div align="center">
-
-**Du code au déploiement, du besoin au produit : je construis, j'automatise et je livre.** 🚀
-
-</div>
-
----
-
-## 🤝 Connectons-nous !
+## GitHub Statistics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](onjanirina.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](votre-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onjanirinarakotondranaivo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Evil-Ghoster)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+261384031028)
-
-</div>
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Evil-Ghoster&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Ghoster&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=Evil-Ghoster&theme=tokyonight&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Evil-Ghoster&style=for-the-badge&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/Evil-Ghoster?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/Evil-Ghoster?style=for-the-badge&color=yellow)
-
-N'hésitez pas à ⭐ mes projets s'ils vous plaisent !
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evil-Ghoster&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Ghoster&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+*From product vision to production: define, build, automate, deliver.*
+
 </div>

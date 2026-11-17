@@ -1,4 +1,4 @@
-# 👋 Salut ! Moi c'est Onja
+# 👋 Salut ! Moi c'est Ghoster
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 > Étudiant en Master d'informatique à l'**École Nationale d'Informatique (ENI) de Fianarantsoa** 🇲🇬
 
 ```python
-class Onja:
+class Ghoster:
     location = "Madagascar 🇲🇬"
     education = "Master Informatique — ENI Fianarantsoa"
     roles = ["Product Owner", "Fullstack Developer", "DevOps Engineer", "AI Engineer"]
@@ -137,7 +137,7 @@ flowchart LR
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](votre-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](onjanirina.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](votre-linkedin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onjanirinarakotondranaivo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Evil-Ghoster)

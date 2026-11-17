@@ -15,7 +15,7 @@ Fianarantsoa, Madagascar &nbsp;|&nbsp; Master's student at École Nationale d'In
 
 <a href="mailto:onjanirinarakotondranaivo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/onjanirina-rakotondranaivo-806b5b2a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://votre-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=E63946" alt="Portfolio" /></a>
+<a href="https://onjanirina.me"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=E63946" alt="Portfolio" /></a>
 <a href="https://wa.me/261384031028"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
@@ -143,8 +143,8 @@ flowchart LR
 
 <h2>GitHub Statistics</h2>
 
-<img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" height="190" />
-<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Languages" height="190" />
+<img src="./profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats" height="190" />
+<img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Top Languages" height="190" />
 
 </div>
 

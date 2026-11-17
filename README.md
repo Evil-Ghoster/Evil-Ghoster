@@ -1,7 +1,7 @@
 <!-- Bannière -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Ghoster&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Product%20Owner%20%C2%B7%20DevOps%20Engineer%20%C2%B7%20Fullstack%20%26%20AI%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="Ghoster" width="100%" />
+<img src="./assets/banner.svg" alt="Ghoster" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=Product+Ownership+%26+Agile+Delivery;CI%2FCD+%7C+Docker+%7C+Kubernetes;Microservices+Architecture;LLMs+%26+AI+Agents+with+Python" alt="Typing SVG" />
@@ -158,6 +158,6 @@ flowchart LR
 
 <sub><i>From product vision to production: define, build, automate, deliver.</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:58A6FF,50:1F6FEB,100:0D1117&section=footer" alt="" width="100%" />
+<img src="./assets/footer.svg" alt="" width="100%" />
 
 </div>
